@@ -1,6 +1,6 @@
-## Smart Manhole Monitoring System (ESP8266)
+# Smart Manhole Monitoring System (ESP8266)
 
-#Project Overview
+# Project Overview
 This project is an IoT-based Smart Manhole Monitoring System developed using ESP8266 (NodeMCU).
 The system detects open manholes and overflow conditions in real time and provides alerts using an LCD display and buzzer.
 The main goal is to improve public safety and reduce accidents caused by unattended manholes.
